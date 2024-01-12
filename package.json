@@ -1,5 +1,7 @@
 {
   "name": "event-countdown",
+  "description": "Website displaying countdowns to special events or occasions",
+  "author": "Sean Stocker",
   "private": true,
   "version": "0.0.0",
   "type": "module",
